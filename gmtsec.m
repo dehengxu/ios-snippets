@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: FAC810F1-4F8C-401F-AA14-17A78B1503E2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 [[NSTimeZone systemTimeZone] secondsFromGMT]
